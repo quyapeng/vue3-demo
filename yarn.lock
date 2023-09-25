@@ -2131,6 +2131,11 @@ object.assign@^4.1.4:
     has-symbols "^1.0.3"
     object-keys "^1.1.1"
 
+oh-my-live2d@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.npmjs.org/oh-my-live2d/-/oh-my-live2d-0.3.0.tgz#3ad1545273b00e9924b8183fc0897e7ee6262186"
+  integrity sha512-QN8dEWz0VmL8hFgNv/no25CuBflHPj75om6wU5E88dbUN8bVrm/i4D7tMDFkj8u5+DUSqzdEUpzb5Xi6qyGCew==
+
 once@^1.3.0:
   version "1.4.0"
   resolved "https://registry.npmmirror.com/once/-/once-1.4.0.tgz#583b1aa775961d4b113ac17d9c50baef9dd76bd1"
